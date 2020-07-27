@@ -1,0 +1,13 @@
+C:\devbuild\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.exe
+C:\devbuild\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.deps.json
+C:\devbuild\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.runtimeconfig.json
+C:\devbuild\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.runtimeconfig.dev.json
+C:\devbuild\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.dll
+C:\devbuild\Week4\Lab4.2Movies\bin\Debug\netcoreapp3.1\Lab4.2Movies.pdb
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.csprojAssemblyReference.cache
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.AssemblyInfoInputs.cache
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.AssemblyInfo.cs
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.csproj.CoreCompileInputs.cache
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.dll
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.pdb
+C:\devbuild\Week4\Lab4.2Movies\obj\Debug\netcoreapp3.1\Lab4.2Movies.genruntimeconfig.cache
